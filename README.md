@@ -154,3 +154,4 @@ You can try SnapKit in Playground.
 
 SnapKit is released under the MIT license. See LICENSE for details.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
