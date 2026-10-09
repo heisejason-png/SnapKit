@@ -153,5 +153,4 @@ You can try SnapKit in Playground.
 ## License
 
 SnapKit is released under the MIT license. See LICENSE for details.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
